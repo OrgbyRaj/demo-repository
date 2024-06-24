@@ -9,7 +9,7 @@ on:
 jobs:
   job_1:
     name: Add 3 and 7
-    runs-on: actions_runner_dev
+    runs-on: actions_runner_1
     steps:
       - name: Sleep for 3 minutes
         run: sleep 180s
