@@ -1,5 +1,4 @@
 name: HRATest
-
 on:
   push:
     branches: [ "main" ]
